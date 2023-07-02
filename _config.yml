@@ -4,9 +4,9 @@ SEOTitle: Ben's Blog
 header-img: img/post-bg-desk.png
 description: "Every failure is leading towards success."
 keyword: "Ben, Ben Blog, Ben的博客"
-url: "http://benblog.github.io"          # your host, for absolute URL
+url: "http://klugben.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/KlugBen/benblog.github.io.git" # you code repository
+github_repo: "https://github.com/KlugBen/klugben.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -63,7 +63,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: benblog.github.io    #仓库名称
+  repo: klugben.github.io    #仓库名称
   owner: Klugben    #github用户名
   admin: Klugben
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
